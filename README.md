@@ -29,27 +29,39 @@ The loading requirements stipulated below:
 <h2>Project's snapshots</h2>
 
 <p align="center">
-Assembled gravity racer <br/>
-<img src="https://i.imgur.com/iAaima7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Final assembled bridge design in SolidWorks: <br/>
+<img src="https://i.imgur.com/ANEBjPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Car's hull  <br/>
-<img src="https://i.imgur.com/XM8Vb3M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The bridge exploded view in SolidWorks: <br/>
+<img src="https://i.imgur.com/6wE6dG9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Car's axles <br/>
-<img src="https://i.imgur.com/IVbbSWD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Technical drawing of the deck: <br/>
+<img src="https://i.imgur.com/ViSce3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Car's wheels  <br/>
-<img src="https://i.imgur.com/bIkqKm8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Technical drawing of the I beam supports: <br/>
+<img src="https://i.imgur.com/UcCjMMT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Car's bearings  <br/>
-<img src="https://i.imgur.com/KjlqBoW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Technical drawing of the guards:  <br/>
+<img src="https://i.imgur.com/g18p1qq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-PASCO 500g hooked mass  <br/>
-<img src="https://i.imgur.com/zqCqQql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sheer diagram when the distributed load at the end of the bridge:  <br/>
+<img src="https://i.imgur.com/fosyAGK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Moment diagram when the distributed load at the end of the bridge:  <br/>
+<img src="https://i.imgur.com/fosyAGK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sheer diagram when the distributed load at the middle of the bridge:  <br/>
+<img src="https://i.imgur.com/CkxH5fg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Moment diagram when the distributed load at the middle of the bridge:  <br/>
+<img src="https://i.imgur.com/GMORUaG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
