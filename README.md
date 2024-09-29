@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Project Manager in a team of 3 students to design to analyze the loading conditions of a simple bridge and redesign the bridge such that it can bear the loading requirements. Responsible for project management, keep the project aligns with requirements, assembling and testing the bridge.
+Project Manager in a team of 3 students to design and analyze the loading conditions of a simple bridge and redesign the bridge such that it can bear the loading requirements. Responsible for project management, keep the project aligns with requirements, assembling and testing the bridge.
 <br />
 The loading requirements stipulated below:
 <br />
